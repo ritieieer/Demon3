@@ -1,4 +1,2 @@
-python-telegram-bot
-aiohttp
+pyTelegramBotAPI
 requests
-aiogram
